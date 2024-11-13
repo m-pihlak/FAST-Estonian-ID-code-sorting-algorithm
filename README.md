@@ -46,6 +46,7 @@ Finally we need to do the counting sort for each partition and since we do it fo
 <br>
 <br>
 Now we have three ranges:
+
   1. Birth year
   2. Birth month and day
   3. Order number with gender
